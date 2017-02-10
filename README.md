@@ -1,6 +1,7 @@
 # HappyNewYear2017
 Happy New Year 2017 with C++ in Console
-			******************** COPYRIGHT 2017 *************************
+
+			******************** COPYRIGHT 2017 ******************************
 + Software		    	: Happy New Year 2017
 + Coding		      	: Phan Anh Viet (Anhvietcr)
 + From			       	: K16 HCMUS VietNam - Group C/C++.
